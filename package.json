@@ -1,0 +1,34 @@
+{
+    "name": "alexarank",
+    "version": "0.1.0",
+    "description": "A simple node package to get Alexa traffic rank for a domain or URL",
+    "main": "index.js",
+    "bin": {
+        "alexarank": "./bin/alexarank"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/fcambus/alexarank.git"
+    },
+    "keywords": [
+        "alexa",
+        "api",
+        "traffic",
+        "rank"
+    ],
+    "author": {
+        "name": "Frederic Cambus",
+        "url": "http://www.cambus.net"
+    },
+    "licenses": [{
+        "type": "BSD",
+        "url": "https://github.com/fcambus/alexarank/blob/master/LICENSE"
+    }],
+    "bugs": {
+        "url": "https://github.com/fcambus/alexarank/issues"
+    },
+    "dependencies": {
+        "xml2js": "~0.4.0",
+        "request": "~2.30.0"
+    }
+}

@@ -1,0 +1,17 @@
+#!/usr/bin/env node
+
+var alexa = require('../lib/alexarank');
+
+if (process.argv.length == 2) {
+    console.log('USAGE    : alexarank domain\n');
+    console.log('EXAMPLES : alexarank http://www.echojs.com\n           alexarank echojs.com');
+    process.exit(1);
+}
+
+alexa(process.argv[2], function(error, result) {
+    if (!error) {
+        console.log(JSON.stringify(result));
+    } else {
+        console.log(error);
+    }
+});
