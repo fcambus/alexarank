@@ -1,6 +1,6 @@
 {
     "name": "alexarank",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "A simple node package to get Alexa traffic rank for a domain or URL",
     "main": "index.js",
     "bin": {
