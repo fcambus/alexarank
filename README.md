@@ -1,4 +1,4 @@
-# alexarank
+# alexarank [![Build Status](https://travis-ci.org/fcambus/alexarank.png?branch=master)](https://travis-ci.org/fcambus/alexarank)
 
 ## Description
 
