@@ -31,11 +31,11 @@
         "url": "https://github.com/fcambus/alexarank/issues"
     },
     "dependencies": {
-        "xml2js": "~0.4.0",
-        "request": "~2.30.0"
+        "xml2js": "0.4.15",
+        "request": "2.67.0"
     },
     "devDependencies": {
-        "mocha": "~1.17.1",
-        "should": "~3.1.0"
+        "mocha": "2.3.4",
+        "should": "8.0.2"
     }
 }
