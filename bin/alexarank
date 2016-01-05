@@ -1,5 +1,19 @@
 #!/usr/bin/env node
 
+/*****************************************************************************/
+/*                                                                           */
+/* alexarank 0.1.1                                                           */
+/* Copyright (c) 2013-2016, Frederic Cambus                                  */
+/* https://github.com/fcambus/alexarank                                      */
+/*                                                                           */
+/* Created: 2013-12-14                                                       */
+/* Last Updated: 2016-01-05                                                  */
+/*                                                                           */
+/* alexarank is released under the BSD 2-Clause license.                     */
+/* See LICENSE file for details.                                             */
+/*                                                                           */
+/*****************************************************************************/
+
 var alexa = require('../lib/alexarank');
 
 if (process.argv.length == 2) {
