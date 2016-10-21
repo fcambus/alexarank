@@ -32,8 +32,8 @@
         "url": "https://github.com/fcambus/alexarank/issues"
     },
     "dependencies": {
-        "xml2js": "^0.4",
-        "request": "^2.75"
+        "isomorphic-fetch": "^2.2.1",
+        "xml2js": "^0.4"
     },
     "devDependencies": {
         "mocha": "2.3.4",
