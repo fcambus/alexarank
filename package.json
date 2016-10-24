@@ -1,43 +1,49 @@
 {
-    "name": "alexarank",
-    "version": "0.1.1",
-    "description": "A simple node package to get Alexa traffic rank for a domain or URL",
-    "files": ["index.js", "lib", "bin"],
-    "main": "index.js",
-    "bin": {
-        "alexarank": "./bin/alexarank"
-    },
-    "scripts": {
-        "test": "mocha"
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/fcambus/alexarank.git"
-    },
-    "keywords": [
-        "alexa",
-        "api",
-        "traffic",
-        "rank"
-    ],
-    "author": {
-        "name": "Frederic Cambus",
-        "url": "http://www.cambus.net"
-    },
-    "licenses": [{
-        "type": "BSD",
-        "url": "https://github.com/fcambus/alexarank/blob/master/LICENSE"
-    }],
-    "bugs": {
-        "url": "https://github.com/fcambus/alexarank/issues"
-    },
-    "dependencies": {
-        "es6-promise": "^4.0.5",
-        "isomorphic-fetch": "^2.2.1",
-        "xml2js": "^0.4"
-    },
-    "devDependencies": {
-        "mocha": "2.3.4",
-        "should": "8.0.2"
+  "name": "alexarank",
+  "version": "0.1.1",
+  "description": "A simple node package to get Alexa traffic rank for a domain or URL",
+  "files": [
+    "index.js",
+    "lib",
+    "bin"
+  ],
+  "main": "index.js",
+  "bin": {
+    "alexarank": "./bin/alexarank"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fcambus/alexarank.git"
+  },
+  "keywords": [
+    "alexa",
+    "api",
+    "traffic",
+    "rank"
+  ],
+  "author": {
+    "name": "Frederic Cambus",
+    "url": "http://www.cambus.net"
+  },
+  "licenses": [
+    {
+      "type": "BSD",
+      "url": "https://github.com/fcambus/alexarank/blob/master/LICENSE"
     }
+  ],
+  "bugs": {
+    "url": "https://github.com/fcambus/alexarank/issues"
+  },
+  "dependencies": {
+    "es6-promise": "^4.0.5",
+    "isomorphic-fetch": "^2.2.1",
+    "xml2js": "^0.4.17"
+  },
+  "devDependencies": {
+    "mocha": "^3.1.2",
+    "should": "^11.1.1"
+  }
 }
