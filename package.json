@@ -2,6 +2,7 @@
     "name": "alexarank",
     "version": "0.1.1",
     "description": "A simple node package to get Alexa traffic rank for a domain or URL",
+    "files": ["index.js", "lib", "bin"],
     "main": "index.js",
     "bin": {
         "alexarank": "./bin/alexarank"
@@ -31,8 +32,9 @@
         "url": "https://github.com/fcambus/alexarank/issues"
     },
     "dependencies": {
-        "xml2js": "0.4.15",
-        "request": "2.67.0"
+        "es6-promise": "^4.0.5",
+        "isomorphic-fetch": "^2.2.1",
+        "xml2js": "^0.4"
     },
     "devDependencies": {
         "mocha": "2.3.4",
