@@ -1,4 +1,4 @@
-# alexarank [![Build Status](https://travis-ci.org/fcambus/alexarank.png?branch=master)](https://travis-ci.org/fcambus/alexarank)
+# alexarank [![Build Status][1]][2]
 
 ## Description
 
@@ -6,14 +6,14 @@ A simple node package to get Alexa traffic rank for a domain or URL.
 
 ## Installation
 
-Install the module :
+Install the module:
 
 	npm install -g alexarank
 
 
 ## Usage example
 
-Using the module is pretty straightforward :
+Using the module is pretty straightforward:
 
 	var alexa = require('alexarank');
 
@@ -28,7 +28,7 @@ Using the module is pretty straightforward :
 
 ## CLI tool
 
-There is a bundled `alexarank` CLI tool : 
+There is a bundled `alexarank` CLI tool:
 
 	USAGE    : alexarank domain
 
@@ -37,11 +37,16 @@ There is a bundled `alexarank` CLI tool :
 
 ## License
 
-alexarank is released under the BSD 2-Clause license. See `LICENSE` file for details.
+alexarank is released under the BSD 2-Clause license. See `LICENSE` file for
+details.
 
 ## Author
 
-alexarank is developed by Frederic Cambus
+alexarank is developed by Frederic Cambus.
 
-- Site : http://www.cambus.net
+- Site: http://www.cambus.net
 - Twitter: http://twitter.com/fcambus
+
+[1]: https://travis-ci.org/fcambus/alexarank.png?branch=master
+[2]: https://travis-ci.org/fcambus/alexarank
+
