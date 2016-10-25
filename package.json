@@ -28,12 +28,7 @@
     "name": "Frederic Cambus",
     "url": "http://www.cambus.net"
   },
-  "licenses": [
-    {
-      "type": "BSD",
-      "url": "https://github.com/fcambus/alexarank/blob/master/LICENSE"
-    }
-  ],
+  "license": "BSD-2-Clause",
   "bugs": {
     "url": "https://github.com/fcambus/alexarank/issues"
   },
