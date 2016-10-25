@@ -2,7 +2,7 @@
 
 /*****************************************************************************/
 /*                                                                           */
-/* alexarank 0.1.1                                                           */
+/* alexarank 0.2.0                                                           */
 /* Copyright (c) 2013-2016, Frederic Cambus                                  */
 /* https://github.com/fcambus/alexarank                                      */
 /*                                                                           */
