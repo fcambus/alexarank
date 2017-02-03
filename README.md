@@ -30,10 +30,10 @@ Using the module is pretty straightforward:
 
 There is a bundled `alexarank` CLI tool:
 
-	USAGE    : alexarank domain
+	USAGE   : alexarank domain
 
-	EXAMPLES : alexarank http://www.echojs.com
-	           alexarank echojs.com
+	EXAMPLES: alexarank http://www.echojs.com
+	          alexarank echojs.com
 
 ## License
 
