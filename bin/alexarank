@@ -3,11 +3,11 @@
 /*****************************************************************************/
 /*                                                                           */
 /* alexarank 0.2.0                                                           */
-/* Copyright (c) 2013-2016, Frederic Cambus                                  */
+/* Copyright (c) 2013-2017, Frederic Cambus                                  */
 /* https://github.com/fcambus/alexarank                                      */
 /*                                                                           */
 /* Created: 2013-12-14                                                       */
-/* Last Updated: 2016-10-25                                                  */
+/* Last Updated: 2017-02-03                                                  */
 /*                                                                           */
 /* alexarank is released under the BSD 2-Clause license.                     */
 /* See LICENSE file for details.                                             */
