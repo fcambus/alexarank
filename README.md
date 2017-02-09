@@ -45,8 +45,6 @@ details.
 alexarank is developed by Frederic Cambus.
 
 - Site: https://www.cambus.net
-- Twitter: https://twitter.com/fcambus
 
 [1]: https://api.travis-ci.org/fcambus/alexarank.png?branch=master
 [2]: https://travis-ci.org/fcambus/alexarank
-
