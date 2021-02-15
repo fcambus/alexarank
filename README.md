@@ -1,5 +1,3 @@
-# alexarank [![Build Status][1]][2]
-
 ## Description
 
 A simple node package to get Alexa traffic rank for a domain or URL.
@@ -45,6 +43,3 @@ details.
 alexarank is developed by Frederic Cambus.
 
 - Site: https://www.cambus.net
-
-[1]: https://api.travis-ci.org/fcambus/alexarank.png?branch=master
-[2]: https://travis-ci.org/fcambus/alexarank
